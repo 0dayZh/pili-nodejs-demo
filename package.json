@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/0dayZh/pili-nodejs-demo",
   "dependencies": {
-    "pili": "^1.0.3"
+    "pili": "^1.0.4"
   }
 }
